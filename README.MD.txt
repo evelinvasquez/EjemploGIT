@@ -5,4 +5,4 @@
 Proyecto de ejemplo de git en la clase de Analisis.
 
 
-#Modificacion al archivo readme.
+#Modificacion del archivo readme de mi primer proyecto.
